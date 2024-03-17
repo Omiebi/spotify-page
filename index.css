@@ -1,0 +1,50 @@
+.container{
+    font-size: 27px;
+    text-align: center;
+    line-height: 50px;
+}
+.spotify{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 95%;
+    border-radius: 10px;
+}
+.first-writeup{
+    font-size: 50px;
+    padding: 70px 0 0 120px;
+}
+.second-writeup{
+    width: 30%;
+    font-size: 24px;
+    line-height: 35px;
+    padding: 5px 0 0 120px;  
+}
+.third-writeup{
+    padding: 5px 0 0 120px;
+    font-size: 24px;
+}
+.spotify-images{
+    display: flex;
+    width: 100%;
+}
+.spotify-images-one{
+    width: 30%;
+    height: 60vh;
+    padding: 20px;
+    margin-top: 30%;
+    border-radius: 40px;
+}
+.spotify-images-two{
+    width:30%;
+    height: 70vh;
+    padding: 20px;
+    margin-top: 21%;
+    border-radius: 40px;
+}
+.spotify-images-three{
+    width: 30%;
+    height: 80vh;
+    padding: 20px;
+    border-radius: 40px;
+}
